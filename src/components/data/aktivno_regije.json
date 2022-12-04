@@ -1,0 +1,5042 @@
+[
+    {
+        "num": "813100",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "824839",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "853999",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "879257",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "858171",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "835039",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "823967",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "810001",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "793597",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "797792",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "804637",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "817209",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "845454",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "872772",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "894229",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "888918",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "468229",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "457728",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "447268",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "435997",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "441486",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "443641",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "446863",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "463451",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "478148",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "492475",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "488437",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "366810",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "366238",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "362733",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "357600",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "356306",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "360996",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "370346",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "382003",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "394624",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "401754",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "400481",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "SLOVENIJA",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "426550",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "432752",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "449508",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "462949",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "447274",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "431530",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "426943",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "418163",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "409547",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "410433",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "417469",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "420715",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "434543",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "447679",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "457595",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "454587",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "245815",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "241055",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "234853",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "229003",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "231941",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "234755",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "233861",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "242004",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "248320",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "255127",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "252268",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "185715",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "185888",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "183310",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "180545",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "178492",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "182714",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "186854",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "192539",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "199359",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "202469",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "202319",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Vzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "45768",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "46361",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "47834",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "48471",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "46141",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "43482",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "43945",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "41877",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "40783",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "40283",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "39600",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "39523",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "40573",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "41468",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "41895",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "42046",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "25045",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "25040",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "23409",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22666",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22847",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22293",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "21668",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22375",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22547",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22808",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22797",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "18437",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "18905",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "18467",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "18118",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "17436",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "17307",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "17855",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "18198",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "18921",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "19087",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "19249",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Pomurska",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "121806",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "124028",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "129569",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "134087",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "129297",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "124895",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "122915",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "120135",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "117887",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "119013",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "119587",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "120013",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "123115",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "126593",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "129981",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "128923",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "70517",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "68491",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "66451",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "64892",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "66278",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "66564",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "66003",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "67736",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "69236",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "71550",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "70655",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "54378",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "54423",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "53684",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "52995",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "52735",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "53023",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "54010",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "55380",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "57358",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "58432",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "58268",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Podravska",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "29581",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "29667",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "30351",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "30887",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "29606",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "28189",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "28057",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27978",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27044",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27088",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27048",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27014",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27666",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "28234",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "28529",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "28627",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "16023",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "16057",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "15991",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "15456",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "15487",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "15324",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "15073",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "15392",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "15618",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "15802",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "15759",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12166",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12000",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11987",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11589",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11601",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11724",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11941",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12275",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12616",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12727",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12869",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Koroška",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "104434",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "106136",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "110340",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "114089",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "110308",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "106677",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "105746",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "104428",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "102554",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "102594",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "100482",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "101920",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "105913",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "109398",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "112302",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "111627",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "60520",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "59545",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "58681",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "57468",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "58038",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "56534",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "56918",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "59334",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "61200",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "63258",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "62684",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "46157",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "46201",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "45747",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "45086",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "44556",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "43948",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "45002",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "46579",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "48198",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "49044",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "48943",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Savinjska",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "17574",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "17798",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "18322",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "18746",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "17950",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "17307",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "16825",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "16443",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "15974",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "15679",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22013",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22246",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "23038",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "23774",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "24154",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "23861",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "9438",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "9026",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "8796",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "8479",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "8328",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11793",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11845",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12286",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12676",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12971",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12811",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "7869",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "7799",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "7647",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "7495",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "7351",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "10220",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "10401",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "10752",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11098",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11183",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11050",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zasavska",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27416",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27773",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "28851",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "30036",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "29527",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "28565",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "28272",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27830",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27423",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27316",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "29662",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "29828",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "30928",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "31895",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "32663",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "32147",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "16794",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "16470",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "16271",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "15892",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "15990",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "17234",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "17121",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "17752",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "18263",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "18764",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "18261",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11770",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11802",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11559",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11531",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "11325",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12428",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12707",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "13176",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "13632",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "13899",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "13886",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Posavska",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "58190",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "58787",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "61136",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "62882",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "61184",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "59813",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "58976",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "57671",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "56672",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "57094",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "57571",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "58415",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "61069",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "63352",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "64633",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "63933",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "34428",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "33692",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "32787",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "32079",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "32701",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "32732",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "32916",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "34513",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "35797",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "36681",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "35956",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "25385",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "25284",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "24884",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "24593",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "24393",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "24839",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "25499",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "26556",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27556",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27952",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27977",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Jugovzhodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "21781",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22202",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "23104",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "23750",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "23261",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22603",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22207",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "21803",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "21209",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "21367",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "21507",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "21757",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22241",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22965",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "23439",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "23424",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "13051",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12733",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12467",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12071",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12272",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12281",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12317",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12617",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "12984",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "13292",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "13346",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "9552",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "9474",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "9336",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "9139",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "9095",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "9225",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "9440",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "9624",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "9981",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "10146",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "10078",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Primorsko-notranjska",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "386550",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "392087",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "404491",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "416309",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "410897",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "403509",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "397024",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "391838",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "384049",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "387359",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "387168",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "396494",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "410911",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "425093",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "436634",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "434331",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "222414",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "216674",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "212415",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "206994",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "209545",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "208886",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "213002",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "221447",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "229827",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "237349",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "236169",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "181095",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "180350",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "179423",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "177055",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "177814",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "178282",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "183492",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "189464",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "195265",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "199286",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "198162",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Zahodna Slovenija",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "212311",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "215370",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "222510",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "229342",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "228095",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "224742",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "221471",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "218775",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "214996",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "217145",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "214873",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "220847",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "229350",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "237923",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "245555",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "244217",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "122181",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "119036",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "116790",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "114170",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "115597",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "114181",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "117068",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "122240",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "127352",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "132224",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "131651",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "102561",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "102436",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "101985",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "100826",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "101548",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "100693",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "103780",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "107110",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "110572",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "113331",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "112566",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Osrednjeslovenska",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "81390",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "82392",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "84716",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "86674",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "84678",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "83175",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "82197",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "81567",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "80277",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "81155",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "82235",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "83789",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "86539",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "89133",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "91059",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "90804",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "46020",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "45253",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "44678",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "43752",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "44427",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "44821",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "45330",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "46849",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "48403",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "49717",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "49664",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "37155",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "36944",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "36890",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "36526",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "36728",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "37414",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "38459",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "39690",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "40730",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "41342",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "41140",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Gorenjska",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "48838",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "49379",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "50828",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "52185",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "50214",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "48377",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "47305",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "46345",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "45083",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "45173",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "45571",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "46335",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "47839",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "49283",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "50122",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "50161",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27319",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "26453",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "25686",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "24883",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "25127",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "25253",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "25504",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "26365",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27242",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27855",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27856",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "21058",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "20853",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "20659",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "20200",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "20047",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "20319",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "20831",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "21474",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22042",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22267",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22305",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Goriška",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "44011",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "44946",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "46437",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "48107",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "47909",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "47215",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "46051",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "45150",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "43694",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "43886",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "44489",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "45523",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "47183",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "48754",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "49898",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "49150",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Spol - SKUPAJ",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "26894",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "25933",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "25261",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "24190",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "24394",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "24632",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "25101",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "25993",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "26831",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "27553",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "26999",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Moški",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2005,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2006,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2007,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2008,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "\"..\"",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2009,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "20321",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2010,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "20118",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2011,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "19889",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2012,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "19504",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2013,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "19492",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2014,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "19857",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2015,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "20422",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2016,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "21191",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2017,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "21923",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2018,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22346",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2019,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    },
+    {
+        "num": "22151",
+        "KOHEZIJSKA / STATISTIČNA REGIJA": "Obalno-kraška",
+        "SPOL": "Ženske",
+        "LETO": 2020,
+        "MERITVE": "2 Delovno aktivno prebivalstvo po prebivališču - SKUPAJ"
+    }
+]
